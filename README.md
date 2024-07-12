@@ -1,5 +1,5 @@
 ## Olá! Bem vindo(a) ao meu Github👋
-<img align="center" width= 800px height="250px" src="code1.gif"><br>
+
 <div>
 <a href="https://github.com/Ivan-lds">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=dracula&include_all_commits=trueßcount_private=true"/>
@@ -14,6 +14,7 @@
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" width= 200px src="code.gif"><br>
 </div>
 
 ##
