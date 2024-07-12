@@ -1,5 +1,5 @@
 ## Olá! Bem vindo(a) ao meu Github👋
-<img align="right" width= 500px height="350px" src="code.gif">
+<img align="center" width= 500px height="350px" src="code.gif"><br>
 <div>
 <a href="https://github.com/Ivan-lds">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=dracula&include_all_commits=trueßcount_private=true"/>
