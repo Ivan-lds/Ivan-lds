@@ -32,6 +32,7 @@
 
 ##
 
+![snake gif](https://github.com/Ivan-lds/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg)
 <img src="snake.gif" alt="Snake animation" />
 
 ##
