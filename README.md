@@ -1,5 +1,5 @@
 ## Olá! Bem vindo(a) ao meu Github👋
-
+<img align="center" src="banner.gif">
 <div>
 <a href="https://github.com/Ivan-lds">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=dracula&include_all_commits=trueßcount_private=true"/>
