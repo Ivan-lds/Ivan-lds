@@ -23,16 +23,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"/>
 </div>
+<div align="center"> 
+  
+  ![snake game](https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ##
   
 <div align="center">
 <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-lds&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
-
-##
-
-![snake game](https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
@@ -48,5 +48,3 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
 </div>
-
-##
