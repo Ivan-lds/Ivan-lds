@@ -32,7 +32,7 @@
 
 ##
 
-![snake gif](https://github.com/Ivan-lds/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg)
+![snake game](https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
