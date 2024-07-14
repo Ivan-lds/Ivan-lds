@@ -4,8 +4,8 @@
 ##
   
 <a href="https://github.com/Ivan-lds">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=github_dark&include_all_commits=trueßcount_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout-compact&langs_count=16&theme=github_dark"/>
+<img width="600px" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=github_dark&include_all_commits=trueßcount_private=true"/>
+<img width="366px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout-compact&langs_count=16&theme=github_dark"/>
 </div>
 <br>
 <div align="center">
@@ -27,7 +27,7 @@
 ##
   
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-lds&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
+<img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-lds&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
 
 ##
