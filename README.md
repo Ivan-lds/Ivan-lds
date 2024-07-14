@@ -23,8 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"/>
 </div>
+
+##
+
 <div align="center"> 
-  
+
   ![snake game](https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg)
 </div>
 
@@ -33,18 +36,16 @@
 <div align="center">
 <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-lds&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
-
-##
-
+<br>
 <div align="center">
   <a href="https://www.instagram.com/ivan.lds._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
   </a>
   <a href="https://www.linkedin.com/in/ivan-lima-a28335186/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
   </a>
   <a href="mailto: ivanlimadossantos4@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo"/>
 </div>
