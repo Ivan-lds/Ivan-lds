@@ -27,8 +27,10 @@
 ##
 
 <div align="center"> 
-
-  ![snake game](https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ##
