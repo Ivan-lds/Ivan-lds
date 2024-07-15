@@ -2,12 +2,7 @@
 <img src="banner.gif">
   
 ##
-  
-<a href="https://github.com/Ivan-lds">
-<img width="492px" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=github_dark&include_all_commits=trueßcount_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout-compact&langs_count=16&theme=github_dark"/>
-</div>
-<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
@@ -22,6 +17,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"/>
+</div>
+<br>
+<a href="https://github.com/Ivan-lds">
+<img width="492px" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=github_dark&include_all_commits=trueßcount_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout-compact&langs_count=16&theme=github_dark"/>
 </div>
 
 ##
