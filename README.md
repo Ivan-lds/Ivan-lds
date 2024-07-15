@@ -33,12 +33,7 @@
   </picture>
 </div>
 
-##
-  
-<div align="center">
-<img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-lds&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
-</div>
-<br>
+<br>  
 <div align="center">
   <a href="https://www.instagram.com/ivan.lds._/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
