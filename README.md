@@ -24,16 +24,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout-compact&langs_count=16&theme=github_dark"/>
 </div>
 
-##
-
-<div align="center"> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg"/>
-  <img src="https://github.com/Ivan-lds/Ivan-lds/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+<div align="center">
+  <img src="https://github.com/Ivan-lds/Ivan-lds/blob/output/Ivan-lds.svg"/>
 </div>
 
-<br>  
+##
+  
 <div align="center">
   <a href="https://www.instagram.com/ivan.lds._/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
