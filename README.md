@@ -1,5 +1,6 @@
 <div align="center">
 <img src="banner.gif">
+</div>
   
 ##
 
@@ -19,11 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"/>
 </div>
 <br>
+<div align="center">
 <a href="https://github.com/Ivan-lds">
 <img width="492px" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&theme=github_dark&include_all_commits=trueßcount_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout-compact&langs_count=16&theme=github_dark"/>
 </div>
-
+  
 ##
   
 <div align="center">
@@ -37,4 +39,8 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo"/>
+</div>
+
+<div>
+<img align="left" width="200px" height="150px" src="hapti.gif">
 </div>
