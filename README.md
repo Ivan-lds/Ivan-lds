@@ -24,10 +24,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout-compact&langs_count=16&theme=github_dark"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Ivan-lds/Ivan-lds/blob/output/Ivan-lds.svg"/>
-</div>
-
 ##
   
 <div align="center">
