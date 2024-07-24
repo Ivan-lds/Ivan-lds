@@ -41,6 +41,3 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo"/>
 </div>
 
-<div>
-<img align="left" width="200px" height="150px" src="hapti.gif">
-</div>
