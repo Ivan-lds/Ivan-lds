@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.gif">
+<img src="Linkedin-Banner-3.5.jpg">
 </div>
   
 ##
