@@ -2,7 +2,7 @@
   <img src="Linkedin-Banner-3.5.jpg" alt="Banner" />
 </div>
 
-<h2 align="center">👋 Desenvolvedor Front-end focado em interfaces modernas, responsivas e performáticas.</h2>
+<h2 align="center">👋 Desenvolvedor Front-end especializado em interfaces modernas e responsivas.</h2>
 
 ---
 
