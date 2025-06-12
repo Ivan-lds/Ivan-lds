@@ -2,11 +2,7 @@
   <img src="Linkedin-Banner-3.5.jpg" alt="Banner" />
 </div>
 
-<h1 align="center">Olá, eu sou o Ivan Lima 👋</h1>
-
-<div align="center">
-  Desenvolvedor Front-end focado em interfaces modernas, responsivas e performáticas.
-</div>
+<h2 align="center">👋 Desenvolvedor Front-end focado em interfaces modernas, responsivas e performáticas.</h2>
 
 ---
 
