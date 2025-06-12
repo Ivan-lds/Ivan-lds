@@ -15,8 +15,8 @@ Sou um desenvolvedor front-end com sólida base em JavaScript, React e ferrament
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&count_private=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout=compact&theme=react&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ivan-lds&show_icons=true&count_private=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-lds&layout=compact&theme=react&hide_border=true" alt="Top languages" />
 </div>
 
 ---
